@@ -1,0 +1,1 @@
+The app has a text box which asks the user to enter their name. After name is entered there is a "Click me" button below. After the "Click me" is entered. The text above updates from "Hi" to "Hi, Gelan". 
